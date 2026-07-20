@@ -1,20 +1,42 @@
-# Jamalee Qym Talento - Portfolio
+# Jamalee Qym Talento | Portfolio
 
-Third Year BS Information Technology Student | Cloud Enthusiast | Game Developer
+![Status](https://img.shields.io/badge/Status-Active-brightgreen) 
+![Year](https://img.shields.io/badge/Year-3rd%20Year-blue)
 
-## About
-Personal portfolio website built to showcase my academic projects and growing skills in cloud computing and game development.
+Third Year BS Information Technology Student passionate about **Cloud Computing** and **Game Development**.
+
+## About Me
+I'm a third-year IT student at Davao del Norte State College. I enjoy combining creative design with technical skills — currently focusing on Microsoft Azure cloud technologies while building games.
 
 ## Featured Project
-**Alvin and Arden: The Shards of Destiny**  
-A 2D pixel art game written in Python. I contributed to map design and story development.
 
-## Skills
-- Microsoft Azure (AZ-900 Certified)
-- AZ-104 (In Progress)
-- Bicep (IaC)
+### Alvin and Arden: The Shards of Destiny
+**2D Pixel Art Game** | Major Project (3rd Year)
+
+- **Role**: Map Design & Story Development
+- **Technology**: Python
+- Developed an engaging adventure game with rich world-building and narrative elements.
+
+## Skills & Certifications
+
+### Cloud Technologies
+- **AZ-900**: Microsoft Azure Fundamentals (Certified)
+- **AZ-104**: Microsoft Azure Administrator (In Progress)
+- Bicep (Infrastructure as Code) – Currently Learning
+
+### Development
 - Python
-- Game Design & Development
+- 2D Game Development
+- Pixel Art & Level Design
+- Story & Narrative Design
+
+### Education
+- BS Information Technology (3rd Year)  
+  Davao del Norte State College
 
 ## Contact
-talento.jamaleeqym@dnsc.edu.ph
+**Email**: [talento.jamaleeqym@dnsc.edu.ph](mailto:talento.jamaleeqym@dnsc.edu.ph)
+
+---
+
+Built with ❤️ as part of my college portfolio.
